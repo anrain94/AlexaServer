@@ -1,0 +1,24 @@
+{
+  "name": "oc_projekt",
+  "version": "1.0.0",
+  "description": "oc_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "alexa",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anrain94/AlexaServer.git"
+  },
+  "author": "anrain94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anrain94/AlexaServer/issues"
+  },
+  "homepage": "https://github.com/anrain94/AlexaServer#readme",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {}
+}
